@@ -1,0 +1,23 @@
+{
+    "backend": "api-server-nodejs",
+    "db_name": "",
+    "db_pass": "",
+    "db_type": "sqlite",
+    "db_user": "",
+    "dbms": "1",
+    "description": "generated product",
+    "design": "datta-able",
+    "docker": "0",
+    "err_code": 0,
+    "frontend": "react",
+    "heroku": "0",
+    "pattern": "fullstack",
+    "pro": "0",
+    "task_id": "b862b5d6-3bd5-4aaf-9720-a8d29d72059a",
+    "task_info": "Upload Sources [0%] - 203 files",
+    "task_output": "b862b5d6-3bd5-4aaf-9720-a8d29d72059a.zip",
+    "task_result": "SUCCESS",
+    "task_state": "RUNNING",
+    "task_ts_end": "2022-11-09-22-44-40",
+    "task_ts_start": "2022-11-09-22-44-38"
+}
